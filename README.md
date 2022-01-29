@@ -11,7 +11,7 @@ system associated with sunspots. </p>
 from the solar wind, that are captured by and held around a planet by that planet's
 magnetosphere. Shaped in the form of two nested doughnuts, the inner belt starts from 600 -
 1,600 km and extends till 9,600 - 13,000km and the outer belt starts from 13,500 - 19,000 km
-and extends till 40,000 km. The gap between these two regions is known as the Slot Region. [1]
+and extends till 40,000 km. The gap between these two regions is known as the Slot Region.
 The Van Allen belts were first discovered in 1958 and for decades’ scientists thought there
 were only two concentric belts. But days after the Van Allen Probes launched, scientists
 discovered that during times of intense solar activity, a third belt can form.
